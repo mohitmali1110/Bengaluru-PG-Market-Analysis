@@ -164,15 +164,15 @@ jupyter notebook
 
 # 👩‍💻 Author
 
-**Bhumi Paliwal**
+**Mohit Mali**
 
 B.Tech Computer Science Engineering
 
 Tech Stack: Python | SQL | Power BI | Excel | Data Analytics
 
-GitHub: *(Add your GitHub profile link here)*
+GitHub: *(https://github.com/mohitmali1110)*
 
-LinkedIn: *(Add your LinkedIn profile link here)*
+LinkedIn: *(www.linkedin.com/in/mohit-mali27)*
 
 ---
 
